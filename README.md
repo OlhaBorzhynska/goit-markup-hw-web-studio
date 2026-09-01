@@ -1,32 +1,31 @@
-# 💻 Web Studio - eфективні рішення для вашого бізнесу
+# 💻 Web Studio - Effective Solutions for Your Business
 
 <p align="center">
   <img src="/images/web-studio-preview.png" alt="Web Studio Preview" width="100%">
 </p>
 
 ---
-## 📌Опис 
+## 📌Description 
 
-Цей проєкт — мій перший крок у frontend-розробці. Він був створений індивідуально під час навчання в процесі опанування основ HTML та CSS.
+**📄Live Page:** [View Project](https://olhaborzhynska.github.io/goit-markup-hw-web-studio/)
 
-Основна мета — навчитися створювати структуровану, адаптивну та візуально узгоджену вебсторінку з використанням сучасних підходів до верстки.
+This project is my first step into frontend development. It was created individually during my studies while learning the fundamentals of HTML and CSS.
 
-📄 **Жива сторінка:**
- [Переглянути проєкт](https://olhaborzhynska.github.io/goit-markup-hw-web-studio/)
+The main goal was to learn how to create a structured, responsive, and visually consistent web page using modern layout techniques.
 
 ---
 
-## 🚀Основні можливості 
+## 🚀Main Features
 
-- Адаптивна верстка для різних типів пристроїв (mobile, tablet, desktop)
-- Використання семантичного HTML для покращення структури та доступності
-- Застосування сучасної CSS-техніки - Flexbox
-- Чиста та логічно організована структура коду
-- Узгоджений дизайн та стилізація
+- Responsive layout for different types of devices (mobile, tablet, desktop)
+- Use of semantic HTML to improve structure and accessibility
+- Application of modern CSS techniques - Flexbox
+- Clean and logically organized code structure
+- Consistent design and styling
   
 ---
 
-## 🛠️Використані технології 
+## 🛠️Technologies Used
 
 - HTML5
 - CSS3
@@ -34,18 +33,18 @@
 
 ---
 
-## Чого я навчилась 📚
+## What I Learned 📚
 
-Під час роботи над проєктом я отримала практичний досвід у:
-- Побудові семантичної та доступної HTML-структури
-- Створенні адаптивних інтерфейсів з нуля
-- Використанні Flexbox для розмітки
-- Організації CSS для кращої читабельності та підтримки
-- Роботі з відступами, вирівнюванням і позиціонуванням
-- Реалізації базових UI-компонентів
+While working on the project, I gained practical experience in:
+- Building a semantic and accessible HTML structure
+- Creating responsive interfaces from scratch
+- Using Flexbox for layout
+- Organizing CSS for better readability and maintainability
+- Working with spacing, alignment, and positioning
+- Implementing basic UI components
 
 ---
 
-## Мета проєкту 🎯 
+## Project Goal 🎯 
 
-Проєкт створений як частина навчального процесу для формування базових навичок frontend-розробки. Він демонструє мою здатність перетворювати макет у готову вебсторінку з використанням базових вебтехнологій.
+The project was created as part of the learning process to develop fundamental frontend development skills. It demonstrates my ability to transform a design into a ready-to-use web page using basic web technologies.
