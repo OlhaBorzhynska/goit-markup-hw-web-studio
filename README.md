@@ -48,3 +48,16 @@ While working on the project, I gained practical experience in:
 ## Project Goal 🎯 
 
 The project was created as part of the learning process to develop fundamental frontend development skills. It demonstrates my ability to transform a design into a ready-to-use web page using basic web technologies.
+
+---
+
+## 👩‍💻 Author
+
+**Olha Borzhynska** - Junior Full-Stack Developer
+
+GitHub: https://github.com/OlhaBorzhynska
+
+LinkedIn: www.linkedin.com/in/olha-borzhynska
+
+Email: mykytlo@gmail.com
+
