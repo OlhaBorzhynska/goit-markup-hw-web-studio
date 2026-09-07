@@ -33,7 +33,7 @@ The main goal was to learn how to create a structured, responsive, and visually 
 
 ---
 
-## What I Learned 📚
+## 📚 What I Learned 
 
 While working on the project, I gained practical experience in:
 - Building a semantic and accessible HTML structure
@@ -45,7 +45,7 @@ While working on the project, I gained practical experience in:
 
 ---
 
-## Project Goal 🎯 
+## 🎯 Project Goal
 
 The project was created as part of the learning process to develop fundamental frontend development skills. It demonstrates my ability to transform a design into a ready-to-use web page using basic web technologies.
 
