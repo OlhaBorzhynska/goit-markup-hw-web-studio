@@ -5,7 +5,7 @@
 </p>
 
 ---
-## 📌Description 
+## 📌 Description 
 
 **📄Live Page:** [View Project](https://olhaborzhynska.github.io/goit-markup-hw-web-studio/)
 
@@ -15,7 +15,7 @@ The main goal was to learn how to create a structured, responsive, and visually 
 
 ---
 
-## 🚀Main Features
+## 🚀 Features
 
 - Responsive layout for different types of devices (mobile, tablet, desktop)
 - Use of semantic HTML to improve structure and accessibility
@@ -25,7 +25,7 @@ The main goal was to learn how to create a structured, responsive, and visually 
   
 ---
 
-## 🛠️Technologies Used
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
